@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-dark-theme-using-vitereact-and-tailwind-css-hCmx0Vr4Tq)
+- Live Site URL: [Vercel](https://fylo-dark-orpin.vercel.app)
 
 
 ## Built with
